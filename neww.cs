@@ -7,6 +7,9 @@
 //The code installs the File in a random location- kge.t
 //You also have to set the values of URL and inbytes to the URL and the size of the file respectively
 // Please read the entire thing. It's just an example of one simple way to this stuff
+//Note: maybe download a .zip file and unzip it programmatically? You have to implement this yourself.
+//Including things like the where the user wants the location to be 
+//and the code signing certificate
 using System;
 using System.IO;
 using System.Diagnostics;
